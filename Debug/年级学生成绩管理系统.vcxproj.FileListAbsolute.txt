@@ -1,0 +1,2 @@
+D:\Project\C++Project\年级学生成绩管理系统\Debug\年级学生成绩管理系统.exe
+D:\Project\C++Project\年级学生成绩管理系统\Debug\年级学生成绩管理系统.pdb
